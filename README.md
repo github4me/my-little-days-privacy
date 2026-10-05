@@ -1,34 +1,15 @@
-# My Little Days — public support and privacy pages
+# My Little Days — support and privacy
 
-This repository is the selected home for My Little Days support and privacy documentation.
+Public documentation for My Little Days, operated by Reticle Information Technology Pty Ltd.
 
-## Publication status
+- [Support](https://github4me.github.io/my-little-days-privacy/)
+- [Privacy policy](https://github4me.github.io/my-little-days-privacy/privacy/)
+- Contact: [contact@reticle.com.au](mailto:contact@reticle.com.au)
 
-The website is not published yet. This README is not a privacy policy and must not be used as the App Store privacy-policy URL.
+GitHub Pages serves `docs/` from `main`. The site contains static HTML and CSS only; no analytics, advertising scripts, forms or remote fonts are added.
 
-Only approved public content belongs here. Do not upload internal review notes, unfinished policy drafts, account credentials, operational reports or family records.
+Policy effective date: 5 October 2026. Deletion-status records have a seven-year retention target, but automatic expiry is not implemented and records may remain longer. This does not mean retaining deleted baby content for seven years. See the full policy for details.
 
-## Planned site
+Only approved public documentation belongs in this repository. Do not commit family records, credentials or internal operational material.
 
-Publish reviewed static files from the `docs/` directory on the `main` branch:
-
-- `docs/index.html`: My Little Days support and contact information.
-- `docs/privacy/index.html`: approved My Little Days privacy policy.
-- `docs/.nojekyll`: serve the reviewed HTML directly.
-
-Expected GitHub Pages URLs, subject to Pages configuration and successful deployment:
-
-- Support: https://github4me.github.io/my-little-days-privacy/
-- Privacy: https://github4me.github.io/my-little-days-privacy/privacy/
-
-Do not enter these URLs in App Store Connect until the correct pages are publicly accessible over HTTPS.
-
-## Publishing
-
-After approved page files exist, open this repository's **Settings → Pages**. Choose **Deploy from a branch**, select **main** and **/docs**, then save. Keep the default GitHub Pages domain; no custom-domain or DNS change is needed.
-
-Verify both pages without signing in, on a phone and desktop. Check links, contact information, policy effective date, readable layout, and that no draft annotations remain. Use the resulting URLs for App Store Connect's Support URL and Privacy Policy URL. The app must also link to the published policy from its Privacy & support screen.
-
-## Contact
-
-Public app support: [contact@reticle.com.au](mailto:contact@reticle.com.au).
+© 2018 Reticle Information Technology Pty Ltd.
