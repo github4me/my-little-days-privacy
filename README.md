@@ -8,7 +8,7 @@ Public documentation for My Little Days, operated by Reticle Information Technol
 
 GitHub Pages serves `docs/` from `main`. The site contains static HTML and CSS only; no analytics, advertising scripts, forms or remote fonts are added.
 
-Policy effective date: 5 October 2026. Deletion-status records have a seven-year retention target, but automatic expiry is not implemented and records may remain longer. This does not mean retaining deleted baby content for seven years. See the full policy for details.
+Policy effective date: 13 October 2026. Deletion-status records have a seven-year retention target, but automatic expiry is not implemented and records may remain longer. This does not mean retaining deleted baby content for seven years. See the full policy for details.
 
 Only approved public documentation belongs in this repository. Do not commit family records, credentials or internal operational material.
 
